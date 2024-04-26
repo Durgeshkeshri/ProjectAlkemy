@@ -1,8 +1,3 @@
-# React + Vite
+The Alkemy Fest website is a centralized platform for our college's biggest fest, offering event information, registrations, rules, and details. Built using React and Tailwind CSS, We worked as the team,with the majority of the code written by me, the team, comprising individuals responsible for UI, UX, requirements analysis, testing, and more. We developed this website on very span of time.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Website Link - https://alkemy-bvdu.netlify.app/
